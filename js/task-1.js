@@ -22,6 +22,7 @@ const customer = {
     },
 };
 
+
 customer.setDiscount(0.15);
 console.log(customer.getDiscount()); // 0.15
 customer.addOrder(5000, "Steak");
